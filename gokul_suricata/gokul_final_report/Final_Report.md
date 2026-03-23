@@ -131,7 +131,7 @@ ZAP and Nikto scan outputs
 
 Clean GitHub repository for the group to add to later
 
-## 3. Web Application Testing Results (Rahool)
+## 3. Web Application Testing Results (Mansha)
 Findings Summary Table
 ### 3.1 Overview
 
@@ -157,7 +157,7 @@ Note: Risk levels were determined based on impact on confidentiality, integrity,
 
 3. Risk levels are relative to the Juice Shop instance running in a controlled, lab environment.
 
-## 4.  Detailed Vulnerability Write-Up (Rahool)
+## 4.  Detailed Vulnerability Write-Up (Mansha)
 ### 4.1 SQL Injection (High Severity) Overview
 
 During testing, I found that several user-input fields—particularly the search bar and the login form—did not properly validate or sanitize user-supplied data. This allowed me to inject SQL queries into the backend database.
